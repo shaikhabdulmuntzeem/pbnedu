@@ -196,7 +196,7 @@ a {
 
 .uni {
     height: 35rem;
-    width: 84rem;
+    width: 100%;
 }
 
 .box4 {
@@ -833,3 +833,4 @@ a {
     width: 31px;
     margin-top: 17rem;
 }
+
